@@ -1,8 +1,8 @@
 import React from 'react';
-function Stats() {
+function Navbar() {
   return ( <h1>
-    Stats
+    Navbar
   </h1> );
 }
 
-export default Stats;
+export default Navbar
