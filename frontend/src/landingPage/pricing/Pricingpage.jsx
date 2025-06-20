@@ -4,12 +4,12 @@ import Brockerage from './Brockerage';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 function PricingPage() {
-  return ( <h1>
+  return ( <>
     <Navbar/>
     <Hero/>
     <Brockerage/> 
     <Footer/>
-  </h1> );
+   </> );
 }
 
 export default PricingPage;
