@@ -5,11 +5,11 @@ import SupportPage from './landingPage/support/SupportPage';
 import Homepage from './landingPage/home/Homepage';
 import PricingPage from './landingPage/pricing/Pricingpage';
 import Signup from './landingPage/signup/Signup';
+import './index.css';
 function App() {
   return (
     <div className="app">
       <Homepage/>
-      
       
     </div>
   );
