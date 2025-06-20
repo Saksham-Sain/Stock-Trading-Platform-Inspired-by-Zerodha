@@ -13,6 +13,7 @@ function Productspage() {
    <Leftsection/>
    <Rightsection/>
    <Universe/>
+   <Footer/>
    </> );
 }
 
